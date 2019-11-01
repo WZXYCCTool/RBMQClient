@@ -1,0 +1,2 @@
+# RBMQClient
+RabbitmqMQClient
